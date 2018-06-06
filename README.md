@@ -1,3 +1,3 @@
 # hello-world
-just another repositoryy
+just another repository
 Salut, 6.6.2018/bafta mie ))
